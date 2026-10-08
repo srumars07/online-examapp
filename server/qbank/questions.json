@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "A train 240 m long passes a pole in 12 seconds. What is its speed?",
+    "options": [
+      "54 km/h",
+      "60 km/h",
+      "72 km/h",
+      "80 km/h"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "If 20% of a number is 50, what is the number?",
+    "options": [
+      "200",
+      "250",
+      "300",
+      "350"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "What comes next in the series: 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "28",
+      "32",
+      "36"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a JavaScript library?",
+    "options": [
+      "Python",
+      "React",
+      "MySQL",
+      "MongoDB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "If a number is increased from 80 to 100, what is the percentage increase?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Which HTTP method is generally used to retrieve data from a server?",
+    "options": [
+      "POST",
+      "GET",
+      "DELETE",
+      "PATCH"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Find the odd one out.",
+    "options": [
+      "Apple",
+      "Mango",
+      "Carrot",
+      "Banana"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "What is 15 × 8?",
+    "options": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Which data structure follows FIFO?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correctAnswer": 1
+  }
+]
